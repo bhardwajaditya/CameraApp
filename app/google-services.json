@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "172728055070",
+    "firebase_url": "https://bitesnap-d5ab8.firebaseio.com",
+    "project_id": "bitesnap-d5ab8",
+    "storage_bucket": "bitesnap-d5ab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172728055070:android:4c53d53c0e650e26",
+        "android_client_info": {
+          "package_name": "com.example.aditya.bitesnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172728055070-4vb9sd5sllkdd09b89sr88jquj3hbflq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.bitesnap",
+            "certificate_hash": "1304450be3923895326cad688636a0f5bcdf379c"
+          }
+        },
+        {
+          "client_id": "172728055070-2gvnhhhlvf3i4t46e5bkuvcphrvqeh3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl3Uakg7d5xnVDqDzGnTO9pnPAt_-RJM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172728055070-2gvnhhhlvf3i4t46e5bkuvcphrvqeh3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
